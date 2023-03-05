@@ -1,0 +1,6 @@
+name: my-rivery-project
+models: models
+sqls: sqls
+maps: maps
+code: code
+version: 1.0

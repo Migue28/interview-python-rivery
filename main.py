@@ -36,4 +36,4 @@ api_key = os.environ.get("NEWS_API_KEY")
 
 if __name__ == '__main__':
     api_key = api_key
-    print(get_news_data(api_key))
+    get_news_data(api_key)
